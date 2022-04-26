@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/BrunoAzambuja/template_portfolio/blob/main/banner.jpg" >
+  <img src="https://github.com/BrunoAzambuja/template_portfolio/blob/main/banner1.jpg" >
 </p>
 Aqui você encontra os notebooks dos meus projetos na área de Data Science, Machine Learning e Deep Learning.
 
