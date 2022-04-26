@@ -7,7 +7,7 @@
 
 ## Bruno Azambuja
 
-Engenheiro, com experiências em setores metalúrgico, automotivo e de mineração, eu combino habilidades analíticas com atenção aos detalhes e habilidade para trabalhar em ambientes com equipes multidisciplinares. 
+Engenheiro, com experiências em setores metalúrgico, automotivo e de mineração, eu combino conhecimento analítico com atenção aos detalhes e habilidade para trabalhar em ambientes com equipes multidisciplinares.
 
 Tenho trabalhado nos últimos anos com aplicação de técnicas analíticas e soluções tecnológicas, o que me permitiu contribuir para que grandes empresas pudessem alcançar significativos resultados positivos e a solucionar problemas de seus negócios.
 
