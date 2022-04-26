@@ -1,5 +1,5 @@
 
-[![author](https://img.shields.io/badge/author-carlosfab-red.svg)](https://www.linkedin.com/in/brunoazambuja) [![](https://img.shields.io/badge/python-3.5+-blue.svg)](https://www.python.org/downloads/release/python-365/) 
+[![author](https://img.shields.io/badge/author-brunoazambuja-red.svg)](https://www.linkedin.com/in/brunoazambuja) [![](https://img.shields.io/badge/python-3.5+-blue.svg)](https://www.python.org/downloads/release/python-365/) 
 
 
 <p align="center">
@@ -18,8 +18,7 @@ Lista de projetos em Jupyter Notebook:
 * **Avaliação de Risco de Crédito - Nubank:** https://bit.ly/2MTFIH3
 ---
 ### Sobre mim:
-Sou Piloto Militar da Força Aérea Brasileira e Engenheiro de Missão de Satélite no Centro de Operações Espaciais (COPE), em Brasília-DF. Autor do *blog* [sigmoidal.ai](http://sigmoidal.ai).
-* Graduação em Ciências Aeronáuticas pela AFA.
-* Mestrado em Ciências e Tecnologias Espaciais pelo ITA.
-* MBA em Gestão de Projetos e Processos pela UNIFA.
-* Curso de Operações Espaciais pela Força Aérea do Canadá.
+Sou Engenheiro com experiência de mais de 10 anos na aplicação de técnicas analíticas e soluções tecnológicas nos setores metalúrgico, automotivo e de mineração.
+* Graduação em Engenharia de Produção pela PUCRS.
+* Pós Gradução em gestão de Projetos pela FGV.
+* Certificado Profissional de Ciência de Dados da IBM.
