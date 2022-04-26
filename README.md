@@ -11,7 +11,7 @@ Aqui você encontra os notebooks dos meus projetos na área de Data Science, Mac
 
 Lista de projetos em Jupyter Notebook:
 
-* **Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
+* **Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5S
 
 ---
 ### Sobre mim:
