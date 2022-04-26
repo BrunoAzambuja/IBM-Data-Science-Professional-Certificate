@@ -15,7 +15,7 @@ Lista de projetos em Jupyter Notebook:
 
 ---
 ### Sobre mim:
-Sou Engenheiro com experiência de mais de 10 anos na aplicação de técnicas analíticas e soluções tecnológicas nos setores metalúrgico, automotivo e de mineração.
+Sou Engenheiro com experiência na aplicação de técnicas analíticas e soluções tecnológicas nos setores metalúrgico, automotivo e de mineração.
 * Graduado em Engenharia de Produção pela PUCRS.
 * Pós Graduado em gestão de Projetos pela FGV.
 * Certificado Profissional de Ciência de Dados pela IBM.
