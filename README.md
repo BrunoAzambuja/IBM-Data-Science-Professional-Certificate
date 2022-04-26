@@ -5,16 +5,20 @@
 <p align="center">
   <img src="https://github.com/BrunoAzambuja/template_portfolio/blob/main/banner1.jpg" >
 </p>
+
+## Bruno Azambuja
+
+
 Aqui você encontra os notebooks dos meus projetos na área de Data Science, Machine Learning e Deep Learning.
 
-## Projetos:
+#### Projetos:
 
 Lista de projetos em Jupyter Notebook:
 
 * **Análise do naufrágio do Titanic:** https://bit.ly/2Ubr5S
 
 ---
-### Sobre mim:
+#### Sobre mim:
 Sou Engenheiro com experiência na aplicação de técnicas analíticas e soluções tecnológicas de processos dos setores metalúrgico, automotivo e de mineração.
 * Graduado em Engenharia de Produção pela PUCRS.
 * Pós Graduado em Gestão de Projetos pela FGV.
