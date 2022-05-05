@@ -22,4 +22,5 @@ Minhas credenciais incluem uma graduação em Engenharia de Produção pela PUCR
 
 **Meus Projetos Publicados:**
 * IBM Data Science Professional Certificate: Webscraping and Analyzing Historical Stock/Revenue Data of Tesla and GameStop: https://bit.ly/3sCm4oL
+* IBM Data Science Professional Certificate:Extracting Stock Data Using a Python Library https://bit.ly/3P2ozKk
 * Data Science: Investigando o naufrágio do Titanic: https://bit.ly/2Ubr5S
