@@ -25,5 +25,4 @@ Minhas credenciais incluem uma graduação em Engenharia de Produção pela PUCR
 * IBM Data Science Professional Certificate: Extracting Stock Data Using a Python Library https://bit.ly/3P2ozKk
 * IBM Data Science Professional Certificate: Web Scraping Lab https://bit.ly/3sCuix9
 * IBM Data Science Professional Certificate: Extracting Stock Data Using a Web Scraping https://bit.ly/3vNplDC
-
 * Data Science: Investigando o naufrágio do Titanic: https://bit.ly/2Ubr5S
