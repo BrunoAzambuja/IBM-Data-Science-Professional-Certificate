@@ -29,4 +29,4 @@ Minhas credenciais incluem uma graduação em Engenharia de Produção pela PUCR
 * Stock Data: Extracting Stock Data Using a Python Library: https://bit.ly/3P2ozKk
 * Webscraping Lab https://bit.ly/3sCuix9
 
-**Other Courses:**
+*Other Courses:*
