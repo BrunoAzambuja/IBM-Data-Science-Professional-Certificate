@@ -26,9 +26,9 @@ Minhas credenciais incluem uma graduação em Engenharia de Produção pela PUCR
 * Automatization of determining the cuisine of a given recipe - From Problem to Approach https://bit.ly/3wbPKK2
 * Automatization of determining the cuisine of a given recipe - From Understanding to Preparation: https://bit.ly/38XNIpd
 * Automatization of determining the cuisine of a given recipe - From Modeling to Evaluation: https://bit.ly/3wckx9x
-* Webscraping Lab https://bit.ly/3sCuix9
+* Stock Data: Webscraping and Analyzing Historical Tesla and Game Stop: https://bit.ly/3sCm4oL
 * Stock Data: Extracting Stock Data Using a Python Library: https://bit.ly/3P2ozKk
 * Stock Data: Extracting Stock Data Using a Webscraping https://bit.ly/3vNplDC
-* Stock Data: Webscraping and Analyzing Historical Tesla and Game Stop: https://bit.ly/3sCm4oL
+* Webscraping Lab https://bit.ly/3sCuix9
 
 *Other Courses:*
