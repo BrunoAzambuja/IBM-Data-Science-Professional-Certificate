@@ -22,7 +22,7 @@ Minhas credenciais incluem uma graduação em Engenharia de Produção pela PUCR
 
 **Meus Projetos Publicados:**
 
-*IBM Data Science Professional Certificate:*
+**IBM Data Science Professional Certificate:**
 ###### * Automatization of determining the cuisine of a given recipe - From Problem to Approach https://bit.ly/3wbPKK2
 ##### * Automatization of determining the cuisine of a given recipe - From Understanding to Preparation: https://bit.ly/38XNIpd
 #### * Automatization of determining the cuisine of a given recipe - From Modeling to Evaluation: https://bit.ly/3wckx9x
