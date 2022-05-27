@@ -23,9 +23,9 @@ Minhas credenciais incluem uma graduação em Engenharia de Produção pela PUCR
 **Meus Projetos Desenvolvidos:**
 
 *IBM Data Science Professional Certificate:*
-* Automatization of determining the cuisine of a given recipe - From problem to approach https://bit.ly/3wbPKK2
-* Automatization of determining the cuisine of a given recipe - From understanding to preparation: https://bit.ly/38XNIpd
-* Automatization of determining the cuisine of a given recipe - From modeling to evaluation: https://bit.ly/3wckx9x
+* From problem to approach: Automatization of determining the cuisine of a recipe https://bit.ly/3wbPKK2
+* From understanding to preparation: Automatization of determining the cuisine of a recipe  https://bit.ly/38XNIpd
+* From modeling to evaluation: Automatization of determining the cuisine of a recipe https://bit.ly/3wckx9x
 * Stock data: Webscraping and analyzing historical Tesla and Game Stop: https://bit.ly/3sCm4oL
 * Stock data: Extracting stock data using a Python library: https://bit.ly/3P2ozKk
 * Stock data: Extracting stock data using a webscraping https://bit.ly/3vNplDC
