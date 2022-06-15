@@ -13,13 +13,6 @@ Tenho trabalhado nos últimos anos com aplicação de técnicas analíticas e so
 
 Minhas credenciais incluem uma graduação em Engenharia de Produção pela PUCRS, Pós-Graduação em Gestão de Projetos pela FGV e Certificação Profissional de Ciência de Dados pela IBM.
 
-**Links:**
-* [LinkedIn](https://www.linkedin.com/in/brunoazambuja)
-* [Kaggle](https://www.kaggle.com/brunoazambuja)
-* [Tableu](https://public.tableau.com/app/profile/bruno.azambuja)
-
-
-
 **Projetos Desenvolvidos: IBM Data Science Professional Certificate:**
 
 *Data Science Methodology:*
