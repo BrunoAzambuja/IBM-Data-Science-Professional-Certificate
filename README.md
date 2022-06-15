@@ -32,12 +32,10 @@ Minhas credenciais incluem uma graduação em Engenharia de Produção pela PUCR
 * Extracting stock data using a web scraping: https://bit.ly/3NGdwVS
 * Web scraping lab: https://bit.ly/3wUsz8W
 
-*Data Analytics:*
+*Data Analytics and Machine Learning Algorithms:*
 * Analyzing data historical stock Tesla and Game Stop: https://bit.ly/3sZKl8a
 * Development forecast models of car price: https://bit.ly/3GpH9rW
 * Development forecast models of house price: https://bit.ly/3lUq9AG
-
-*Machine Learning Algorithms:*
 * Development algorithms models of classification in a loan case: https://bit.ly/3QpQMLO
 
 **Projetos Desenvolvidos: Outros cursos:**
