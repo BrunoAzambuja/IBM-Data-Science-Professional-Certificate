@@ -28,7 +28,7 @@ Minhas credenciais incluem uma graduação em Engenharia de Produção pela PUCR
 * From modeling to evaluation, automatization of determining the cuisine of a recipe: https://bit.ly/3a370cY
 
 *Databases for Data Science:*
-* Extracting stock data using a Python Library: https://bit.ly/3t2Pigt
+* Extracting stock data using a Python library: https://bit.ly/3t2Pigt
 * Extracting stock data using a web scraping: https://bit.ly/3NGdwVS
 * Web scraping lab: https://bit.ly/3wUsz8W
 
