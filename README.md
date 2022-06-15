@@ -23,21 +23,21 @@ Minhas credenciais incluem uma graduação em Engenharia de Produção pela PUCR
 **Projetos Desenvolvidos: IBM Data Science Professional Certificate:**
 
 *Data Science Methodology:*
-* From problem to approach, automatization of determining the cuisine of a recipe https://bit.ly/3yZz7EF
-* From understanding to preparation, automatization of determining the cuisine of a recipe  https://bit.ly/3LN17y0
-* From modeling to evaluation, automatization of determining the cuisine of a recipe https://bit.ly/3a370cY
+* From problem to approach, automatization of determining the cuisine of a recipe: https://bit.ly/3yZz7EF
+* From understanding to preparation, automatization of determining the cuisine of a recipe:  https://bit.ly/3LN17y0
+* From modeling to evaluation, automatization of determining the cuisine of a recipe: https://bit.ly/3a370cY
 
 *Databases for Data Science:*
 * Extracting stock data using a Python Library: https://bit.ly/3t2Pigt
-* Extracting stock data using a web scraping https://bit.ly/3NGdwVS
-* Web scraping lab https://bit.ly/3wUsz8W
+* Extracting stock data using a web scraping: https://bit.ly/3NGdwVS
+* Web scraping lab: https://bit.ly/3wUsz8W
 
 *Data Analytics:*
 * Web scraping and analyzing historical Tesla and Game Stop: https://bit.ly/3sZKl8a
-* Development forecast models of car price https://bit.ly/3GpH9rW
-* Development forecast models of house price https://bit.ly/3lUq9AG
+* Development forecast models of car price: https://bit.ly/3GpH9rW
+* Development forecast models of house price: https://bit.ly/3lUq9AG
 
 *Machine Learning Algorithms:*
-* Development algorithms models of avaluation in a loan case. https://bit.ly/3QpQMLO
+* Development algorithms models of avaluation in a loan case: https://bit.ly/3QpQMLO
 
 *Other Courses:*
