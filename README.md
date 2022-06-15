@@ -34,7 +34,7 @@ Minhas credenciais incluem uma graduação em Engenharia de Produção pela PUCR
 
 *Data Visualization with Python:*
 * Generating Area Plots, Histograms and Bar Plots: https://bit.ly/3MVuNJC
-* Generating Pie Charts Box Plots Scatter Plots and Bubble Plots: https://bit.ly/3MVtTNe
+* Generating Pie Charts Box Plots Scatter Plots and Bubble Plots: https://bit.ly/3NXc2Hi
 * Generating Waffle Charts, Word Clouds and Regression Plots: https://bit.ly/3OeWfTV
 * Generating Maps: https://bit.ly/3b0Xfwy
 
