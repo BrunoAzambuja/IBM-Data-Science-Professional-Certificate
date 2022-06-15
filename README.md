@@ -40,4 +40,4 @@ Minhas credenciais incluem uma graduação em Engenharia de Produção pela PUCR
 *Machine Learning Algorithms:*
 * Development algorithms models of avaluation in a loan case: https://bit.ly/3QpQMLO
 
-**Projetos desenvolvidos: Outros cursos:**
+**Projetos Desenvolvidos: Outros cursos:**
