@@ -20,18 +20,21 @@ Minhas credenciais incluem uma graduação em Engenharia de Produção pela PUCR
 
 
 
-**Meus Projetos Desenvolvidos:**
+**Projetos Desenvolvidos: IBM Data Science Professional Certificate:**
 
-*IBM Data Science Professional Certificate:*
-* Data Science Methodology: From problem to approach, automatization of determining the cuisine of a recipe https://bit.ly/3yZz7EF
-* Data Science Methodology: From understanding to preparation, automatization of determining the cuisine of a recipe  https://bit.ly/3LN17y0
-* Data Science Methodology: From modeling to evaluation, automatization of determining the cuisine of a recipe https://bit.ly/3a370cY
+*Data Science Methodology:*
+* From problem to approach, automatization of determining the cuisine of a recipe https://bit.ly/3yZz7EF
+* From understanding to preparation, automatization of determining the cuisine of a recipe  https://bit.ly/3LN17y0
+* From modeling to evaluation, automatization of determining the cuisine of a recipe https://bit.ly/3a370cY
+*Data Science Methodology:*
 * Stock data: Webscraping and analyzing historical Tesla and Game Stop: https://bit.ly/3sZKl8a
 * Stock data: Extracting stock data using a Python Library: https://bit.ly/3t2Pigt
 * Stock data: Extracting stock data using a webscraping https://bit.ly/3NGdwVS
-* Data Analytics: Webscraping lab https://bit.ly/3wUsz8W
-* Data Analytics: Development forecast models of car price https://bit.ly/3GpH9rW
-* Data Analytics: Development forecast models of house price https://bit.ly/3lUq9AG
-* Machine Learning Algorithms: Development algorithms models of avaluation in a loan case. https://bit.ly/3QpQMLO
+*Data Analytics:*
+* Webscraping lab https://bit.ly/3wUsz8W
+* Development forecast models of car price https://bit.ly/3GpH9rW
+* Development forecast models of house price https://bit.ly/3lUq9AG
+*Machine Learning Algorithms:*
+* Development algorithms models of avaluation in a loan case. https://bit.ly/3QpQMLO
 
 *Other Courses:*
