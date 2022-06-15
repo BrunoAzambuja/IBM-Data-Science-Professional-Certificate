@@ -13,6 +13,7 @@ Tenho trabalhado nos últimos anos com aplicação de técnicas analíticas e so
 
 Minhas credenciais incluem uma graduação em Engenharia de Produção pela PUCRS, Pós-Graduação em Gestão de Projetos pela FGV e Certificação Profissional de Ciência de Dados pela IBM.
 
+
 **Projetos Desenvolvidos: IBM Data Science Professional Certificate:**
 
 *Data Science Methodology:*
