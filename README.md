@@ -28,14 +28,14 @@ Minhas credenciais incluem uma graduação em Engenharia de Produção pela PUCR
 
 *Data Analytics and Machine Learning Algorithms:*
 * Data analysis historical stock Tesla and Game Stop: https://bit.ly/3sZKl8a
-* Development forecast models of car price: https://bit.ly/3GpH9rW
-* Development forecast models of house price: https://bit.ly/3lUq9AG
-* Development algorithms models of classification in a loan case: https://bit.ly/3QpQMLO
+* Forecast models of car price: https://bit.ly/3GpH9rW
+* Forecast models of house price: https://bit.ly/3lUq9AG
+* Algorithms models of classification in a loan case: https://bit.ly/3QpQMLO
 
 *Data Visualization with Python:*
-* Generating Area Plots, Histograms and Bar Plots: https://bit.ly/3MVuNJC
-* Generating Pie Charts Box Plots Scatter Plots and Bubble Plots: https://bit.ly/3NXc2Hi
-* Generating Waffle Charts, Word Clouds and Regression Plots: https://bit.ly/3OeWfTV
+* Area Plots, Histograms and Bar Plots: https://bit.ly/3MVuNJC
+* Pie Charts Box Plots Scatter Plots and Bubble Plots: https://bit.ly/3NXc2Hi
+* Waffle Charts, Word Clouds and Regression Plots: https://bit.ly/3OeWfTV
 * Generating Maps [Open in Colab]: https://bit.ly/3mQkkop
 
 **Projetos Desenvolvidos: Outros cursos:**
