@@ -30,7 +30,8 @@ Minhas credenciais incluem uma graduação em Engenharia de Produção pela PUCR
 * Stock data: Extracting stock data using a Python Library: https://bit.ly/3t2Pigt
 * Stock data: Extracting stock data using a webscraping https://bit.ly/3NGdwVS
 * Data Analytics: Webscraping lab https://bit.ly/3wUsz8W
-* Data Analytics: Development prediction models of car price https://bit.ly/3GpH9rW
-* Data Analytics: Development prediction models of house price https://bit.ly/3lUq9AG
+* Data Analytics: Development forecast models of car price https://bit.ly/3GpH9rW
+* Data Analytics: Development forecast models of house price https://bit.ly/3lUq9AG
+* Machine Learning Algorithms: Development algorithms models of avaluation in a loan case. https://bit.ly/3QpQMLO
 
 *Other Courses:*
