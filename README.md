@@ -38,4 +38,7 @@ Minhas credenciais incluem uma graduação em Engenharia de Produção pela PUCR
 * Development forecast models of house price: https://bit.ly/3lUq9AG
 * Development algorithms models of classification in a loan case: https://bit.ly/3QpQMLO
 
+*Data Visualization with Python:*
+* 
+
 **Projetos Desenvolvidos: Outros cursos:**
