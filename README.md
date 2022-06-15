@@ -33,7 +33,7 @@ Minhas credenciais incluem uma graduação em Engenharia de Produção pela PUCR
 * Web scraping lab: https://bit.ly/3wUsz8W
 
 *Data Analytics:*
-* Web scraping and analyzing historical Tesla and Game Stop: https://bit.ly/3sZKl8a
+* Analyzing data historical stock Tesla and Game Stop: https://bit.ly/3sZKl8a
 * Development forecast models of car price: https://bit.ly/3GpH9rW
 * Development forecast models of house price: https://bit.ly/3lUq9AG
 
