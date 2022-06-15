@@ -29,7 +29,7 @@ Minhas credenciais incluem uma graduação em Engenharia de Produção pela PUCR
 
 *Databases for Data Science:*
 * Extracting stock data using a Python Library: https://bit.ly/3t2Pigt
-* Extracting stock data using a webscraping https://bit.ly/3NGdwVS
+* Extracting stock data using a web scraping https://bit.ly/3NGdwVS
 * Web scraping lab https://bit.ly/3wUsz8W
 
 *Data Analytics:*
