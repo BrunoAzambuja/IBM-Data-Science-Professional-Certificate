@@ -17,7 +17,6 @@ Minhas credenciais incluem uma graduação em Engenharia de Produção pela PUCR
 **Projetos Desenvolvidos: IBM Data Science Professional Certificate:**
 
 *Data Science Methodology:*
-* From problem to approach, automatization of determining type of cuisine: https://bit.ly/3yZz7EF
 * From understanding to preparation, automatization of determining type of cuisine:  https://bit.ly/3LN17y0
 * From modeling to evaluation, automatization of determining type of cuisine: https://bit.ly/3a370cY
 
