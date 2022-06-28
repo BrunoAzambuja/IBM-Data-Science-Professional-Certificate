@@ -37,4 +37,4 @@ Minhas credenciais incluem uma graduação em Engenharia de Produção pela PUCR
 * Waffle Charts, Word Clouds and Regression Plots: https://bit.ly/3OeWfTV
 * Generating Maps [Open in Colab]: https://bit.ly/3mQkkop
 
-**Projetos Desenvolvidos: Outros cursos:**
+**Projetos Completos Desenvolvido:**
