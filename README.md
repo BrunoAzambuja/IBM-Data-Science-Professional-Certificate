@@ -1,11 +1,11 @@
 # Coursera - IBM Data Science Professional Certificate
-## Tools: Jupyter Notebook, GitHub, Watson Studio
+**Tools:** Jupyter Notebook, GitHub, Watson Studio
 
-## Libraries: Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy, etc.
+**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy, etc.
 
-## Projects: Extracting and visualizing stock, predict housing prices, best classifier model, predicting successful rocket landing, dashboard and interactive map
+**Projects:** Extracting and visualizing stock, predict housing prices, best classifier model, predicting successful rocket landing, dashboard and interactive map
 
-****There are 10 Courses in this Professional Certificate:****
+**There are 10 Courses in this Professional Certificate:**
 
 **1. What is Data Science?**
 
