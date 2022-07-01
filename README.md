@@ -2,6 +2,7 @@
 
 ### You can view all projects developed in this certification above.
 
+
 **Tools:** Jupyter Notebook, GitHub and Watson Studio.
 
 **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy, etc.
