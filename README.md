@@ -10,7 +10,7 @@
 
 ### There are 10 Courses in this Professional Certificate:
 
-**1. What is Data Science?**
+**1. What is Data Science?
 
 **2. Tools for Data Science**
 
