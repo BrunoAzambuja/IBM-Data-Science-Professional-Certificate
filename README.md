@@ -1,4 +1,7 @@
 # Coursera - IBM Data Science Professional Certificate
+
+**You can view all projects developed above:
+
 **Tools:** Jupyter Notebook, GitHub and Watson Studio.
 
 **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy, etc.
