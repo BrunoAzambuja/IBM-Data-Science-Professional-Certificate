@@ -1,6 +1,6 @@
 # Coursera - IBM Data Science Professional Certificate
 
-**You can view all projects developed in this certification above.**
+##You can view all projects developed in this certification above.
 
 **Tools:** Jupyter Notebook, GitHub and Watson Studio.
 
@@ -10,22 +10,13 @@
 
 ### There are 10 Courses in this Professional Certificate:
 
-**1. What is Data Science?
-
-**2. Tools for Data Science**
-
-**3. Data Science Methodology**
-
-**4. Python for Data Science, AI and Development**
-
-**5. Python Project for Data Science**
-
-**6. Databases and SQL for Data Science with Python**
-
-**7. Data Analysis with Python**
-
-**8. Data Visualization with Python**
-
-**9. Machine Learning with Python**
-
-**10. Applied Data Science Capstone**
+1. What is Data Science?
+2. Tools for Data Science
+3. Data Science Methodology
+4. Python for Data Science, AI and Development
+5. Python Project for Data Science
+6. Databases and SQL for Data Science with Python
+7. Data Analysis with Python
+8. Data Visualization with Python
+9. Machine Learning with Python
+10. Applied Data Science Capstone
