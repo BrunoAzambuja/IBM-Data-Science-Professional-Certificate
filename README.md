@@ -1,6 +1,6 @@
 # Coursera - IBM Data Science Professional Certificate
 
-#### You can view all projects developed during certification in the files above.
+#### Above you can view all projects developed during certification in the files.
 
 
 **Tools:** Jupyter Notebook, GitHub and Watson Studio.
