@@ -21,3 +21,5 @@
 8.  Data Visualization with Python
 9.  Machine Learning with Python
 10. Applied Data Science Capstone
+
+https://github.com/BrunoAzambuja/IBM-Data-Science-Professional-Certificate/blob/main/IBM%20certificate%20conclusion.png
