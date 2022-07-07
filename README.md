@@ -21,5 +21,3 @@
 8.  Data Visualization with Python
 9.  Machine Learning with Python
 10. Applied Data Science Capstone
-
-IBM certificate conclusion.pdf
